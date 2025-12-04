@@ -11,6 +11,7 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             char choice;
+            Console.WriteLine("      ");
 
             // Keep The Loop Running Until The Choice Is y/Y
             do
