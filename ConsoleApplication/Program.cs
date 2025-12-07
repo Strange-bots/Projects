@@ -11,12 +11,11 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             char choice;
-            Console.WriteLine("      ");
-
+            Console.WriteLine("     ");
             // Keep The Loop Running Until The Choice Is y/Y
             do
             {
-
+                Console.WriteLine("Anthing");
                 // Input Customer Name
                 Console.Write("Enter Customer Name: ");
                 string customerName = Console.ReadLine();
